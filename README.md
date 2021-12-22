@@ -38,13 +38,18 @@
 - 版本控制
 	- [git](https://www.yuque.com/tyc-cc/hgythh/qg2hm7)
 	- [多账号管理](https://blog.csdn.net/thewindkee/article/details/88552357?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_title~default-1.no_search_link&spm=1001.2101.3001.4242.2)
+	- [github访问慢](https://blog.csdn.net/wjhsmart/article/details/105770492)
 - java基础
 	- [java基础](https://www.yuque.com/tyc-cc/hgythh/gom6sp)
 	- [死磕java对象](https://mp.weixin.qq.com/s/aZg9SZT3DWkCkEsjlUjTtQ)
 	- [代码规范](https://www.yuque.com/tyc-cc/tp08p3/rfmb0k)
 	- [多线程](https://www.yuque.com/tyc-cc/hgythh/figkue)
+- mysql
+	- [mvcc](https://mp.weixin.qq.com/s/bghdFtuv6TT2s-mqDECnqQ)
+	- [批量插入](https://mp.weixin.qq.com/s/bghdFtuv6TT2s-mqDECnqQ)
 - spring
-	- https://zhuanlan.zhihu.com/p/145063307
+	- [springboot整合大全](https://zhuanlan.zhihu.com/p/145063307)
+	- [springclould基础](https://mp.weixin.qq.com/s/g0br3PfTmm8C_nkKbzE_ig)
 - 网络编程
 	- [netty笔记](https://www.yuque.com/tyc-cc/hgythh/kc9oye)
 - 内功
@@ -56,12 +61,10 @@
 	- [vue笔记](https://www.yuque.com/tyc-cc/hgythh/ipeus0)
 - 杂记
 	- [log4j2漏洞详解与复现](https://mp.weixin.qq.com/s/zXzJVxRxMUnoyJs6_NojMQ)
-
-
-
-# 脑图
-
-> 下面这些脑图是我通过看书或者视频当中摘出来地概要，还有很多不足，后续会持续调整修改。画图工具[语雀](https://www.yuque.com/)。
+- 算法
+	-[算法小抄](https://labuladong.gitee.io/algo/)
+- 脑图
+	-[]()
 
 
 
