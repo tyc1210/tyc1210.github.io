@@ -27,7 +27,11 @@
 	- [Java基础视频教程]()
 	- [Java基础文档教程]()
 	- [解锁多种获取对象的技巧](https://mp.weixin.qq.com/s/aZg9SZT3DWkCkEsjlUjTtQ)
+	- [List](https://mp.weixin.qq.com/s/9bw2-pkuYSKEnstb4KGsqQ)
+	- [HashMap](https://mp.weixin.qq.com/s/xv0GmAU8fVlS_sxWKWUWYw)
+	- [ConcurrentHashMap](https://mp.weixin.qq.com/s/cnpfLL4TeL2oyEcHia6Bmg)
 	- [代码规范](https://www.yuque.com/tyc-cc/tp08p3/rfmb0k)
+	
 
 - **【二】多线程**
 - **【三】JVM**
@@ -37,8 +41,11 @@
 - [springboot整合大全](https://zhuanlan.zhihu.com/p/145063307)
 - [springclould基础](https://mp.weixin.qq.com/s/g0br3PfTmm8C_nkKbzE_ig)
 ## 📜 数据库
-- [mvcc](https://mp.weixin.qq.com/s/bghdFtuv6TT2s-mqDECnqQ)
 - [批量插入](https://mp.weixin.qq.com/s/bghdFtuv6TT2s-mqDECnqQ)
+- [mvcc](https://mp.weixin.qq.com/s/bghdFtuv6TT2s-mqDECnqQ)
+- [为什么使用b+树?](https://mp.weixin.qq.com/s/AoPq8poENF9T4mVS1fDFPw)
+- [b+树高度计算](https://www.cnblogs.com/tangchuanyang/p/6634581.html)
+- [树高度与磁盘IO](https://www.zhihu.com/question/478168929/answer/2050270622)
 ## 🔗 中间件
 - **Reids**
 	* [Java基础脑图]()
