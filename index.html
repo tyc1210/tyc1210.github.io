@@ -2,22 +2,23 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>C的博客</title>
+  <title>C' NoteBook -- by Mr.Tian</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-  <!-- 默认主题 -->
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <!-- 主题 -->
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/vue.css">
+
   
 </head>
 <body>
   <!-- 定义加载时候的动作 -->
-  <div id="app">loading . . .</div>
+  <div id="app">🏍️‍💨💨💨 加载中...</div>
   
   <script>
     window.$docsify = {
 	  // 项目名称
-      name: 'C的Blog',
+      name: '🌈 MyBlog',
 	  // 仓库地址，点击右上角的Github章鱼猫头像会跳转到此地址
       repo: 'https://github.com/tyc1210/tyc1210.github.io',
 	  // 导航栏支持，默认加载的是项目根目录下的_navbar.md文件
@@ -25,6 +26,12 @@
 	  // 封面支持，默认加载的是项目根目录下的_coverpage.md文件
 	  coverpage: true,
 	  // 自动加载子侧边栏 根据标题
+	  disqus: 'shortname',
+	  copyCode: {
+    buttonText : 'Copy to clipboard',
+    errorText  : 'Error',
+    successText: 'Copied'
+  },
     }
   </script>
   
@@ -37,6 +44,26 @@
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
   <!-- 图片放大缩小支持 -->
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
-	
+   <!-- mouse click -->
+  <script src="https://cdn.jsdelivr.net/gh/wugenqiang/NoteBook@master/plugin/click_heart.js"></script>
+  <!-- 展示小人儿 -->
+  <!--小帅哥： https://unpkg.com/live2d-widget-model-chitose@1.0.5/assets/chitose.model.json-->
+  <!--学生女 https://unpkg.com/live2d-widget-model-hibiki@1.0.5/assets/hibiki.model.json-->
+  <!--音乐妹：https://unpkg.com/live2d-widget-model-nito@1.0.5/assets/nito.model.json-->
+  <!--萌娘：https://unpkg.com/live2d-widget-model-shizuku@1.0.5/assets/shizuku.model.json-->
+  <!--小可爱（女）：https://unpkg.com/live2d-widget-model-koharu@1.0.5/assets/koharu.model.json-->
+  <!--小可爱（男）：https://unpkg.com/live2d-widget-model-haruto@1.0.5/assets/haruto.model.json-->
+  <!--初音：https://unpkg.com/live2d-widget-model-miku@1.0.5/assets/miku.model.json-->
+  <!--黑猫：https://unpkg.com/live2d-widget-model-tororo@1.0.5/assets/tororo.model.json-->
+  <script src="https://eqcn.ajz.miesnfu.com/wp-content/plugins/wp-3d-pony/live2dw/lib/L2Dwidget.min.js"></script>
+   <!-- 上边的不一样连接显示的是不一样的小人，这个能够根据须要来选择 下边的初始化部分，能够修改宽高来修改小人的大小，或者是鼠标移动到小人上的透明度，也能够修改小人在页面出现的位置。 -->
+  <script>
+    /*https://unpkg.com/live2d-widget-model-shizuku@1.0.5/assets/shizuku.model.json*/
+    L2Dwidget.init({ "model": { jsonPath:
+          "https://unpkg.com/live2d-widget-model-miku@1.0.5/assets/miku.model.json",
+        "scale": 1 }, "display": { "position": "right", "width": 110, "height": 150,
+        "hOffset": 0, "vOffset": -20 }, "mobile": { "show": true, "scale": 0.5 },
+      "react": { "opacityDefault": 0.8, "opacityOnHover": 0.1 } });
+  </script>
 </body>
 </html>
