@@ -17,9 +17,12 @@
 
 ---
 # ☕ 学习导航
+---
 
 ## 🚀 计算机基础
 - [计算机网络](https://www.yuque.com/tyc-cc/hgythh/nae0ot)
+
+---
 
 ## ☕️ Java
 - **【一】Java基础**
@@ -32,53 +35,77 @@
 	- [ConcurrentHashMap](https://mp.weixin.qq.com/s/cnpfLL4TeL2oyEcHia6Bmg)
 	- [代码规范](https://www.yuque.com/tyc-cc/tp08p3/rfmb0k)
 	
-
 - **【二】多线程**
 - **【三】JVM**
 - **【三】资源**
 
+---
+
 ## 🍿 Spring全家桶
 - [springboot整合大全](https://zhuanlan.zhihu.com/p/145063307)
 - [springclould基础](https://mp.weixin.qq.com/s/g0br3PfTmm8C_nkKbzE_ig)
+
+---
+
 ## 📜 数据库
 - [批量插入](https://mp.weixin.qq.com/s/bghdFtuv6TT2s-mqDECnqQ)
-- [mvcc](https://mp.weixin.qq.com/s/bghdFtuv6TT2s-mqDECnqQ)
-- [为什么使用b+树?](https://mp.weixin.qq.com/s/AoPq8poENF9T4mVS1fDFPw)
+- [mysql数据恢复](/Mysql/mysql数据恢复.md)
+- [mysql之mvcc](https://mp.weixin.qq.com/s/bghdFtuv6TT2s-mqDECnqQ)
+- [mysql为什么使用b+树?](https://mp.weixin.qq.com/s/AoPq8poENF9T4mVS1fDFPw)
 - [b+树高度计算](https://www.cnblogs.com/tangchuanyang/p/6634581.html)
 - [树高度与磁盘IO](https://www.zhihu.com/question/478168929/answer/2050270622)
+
+---
+
 ## 🔗 中间件
 - **Reids**
 	* [Java基础脑图]()
 - **Kafka**
 	- [kafka](https://www.yuque.com/tyc-cc/hgythh/kuvd5c)
 - **RabbitMq**
-	* [Java基础脑图]()	
+	* []()	
 - **Dubbo**
 - [dubbo](https://mp.weixin.qq.com/s/2qSA6aJn6KRXrATVE44k0w)	
+
+---
 	
 ## 🐧 linux
-- [linux学习笔记](https://www.yuque.com/tyc-cc/hgythh/eyssr1)
+- [linux学习笔记]()
+
+---
 
 ## ☁️ 云原生
-- [docker](https://www.yuque.com/tyc-cc/hgythh/puu6e3)
+- [docker基础](/Docker/basic.md)
 - [云原生](https://www.yuque.com/leifengyang/oncloud/ctiwgo)
+
+---
 
 ## 💭 设计模式
 - [个人笔记](https://www.yuque.com/tyc-cc/hgythh/lys8gy)
+
+---
 	
 ## 💻 网络编程
 - [netty笔记](https://www.yuque.com/tyc-cc/hgythh/kc9oye)
+
+---
 	
 ## ⏳ 数据结构与算法
 -[算法小抄](https://labuladong.gitee.io/algo/)
+
+---
 ## 🔧 版本控制
 - [git](https://www.yuque.com/tyc-cc/hgythh/qg2hm7)
 - [多账号管理](https://blog.csdn.net/thewindkee/article/details/88552357?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_title~default-1.no_search_link&spm=1001.2101.3001.4242.2)
 - [github访问慢](https://blog.csdn.net/wjhsmart/article/details/105770492)
+
+---
 ## ✏️ 前端
-- [vue笔记](https://www.yuque.com/tyc-cc/hgythh/ipeus0)
+- [vue笔记](/Vue/Vue.md)
+
+---
 ## 🐍 Python
-- [python笔记](https://www.yuque.com/tyc-cc/hgythh/tmgzf5)
+- [python笔记](/Python/basic.md)
 
 
 ---
@@ -90,5 +117,5 @@
         <img src="./_coverpage.assets/me_wx.png" width="200" height="200"/>
 </p>
 
----
+-
 
