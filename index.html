@@ -7,7 +7,8 @@
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <!-- 主题 -->
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/vue.css">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/vue.css " title="vue" />
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/dark.css" title="dark" disabled />
   <!--评论功能-->
   <link rel="stylesheet" href="//unpkg.com/gitalk/dist/gitalk.css">
 
@@ -15,19 +16,26 @@
 </head>
 <body>
   <!-- 定义加载时候的动作 -->
-  <div id="app">🏍️‍💨💨💨 加载中...</div>
+  <div id="app">🏍️‍💨💨💨 加载中 . . .</div>
   
   <script>
     window.$docsify = {
 	  // 项目名称
       name: '🌈 MyBlog',
 	  // 仓库地址，点击右上角的Github章鱼猫头像会跳转到此地址
-      repo: 'https://github.com/tyc1210/tyc1210.github.io',
+      //repo: 'https://github.com/tyc1210/tyc1210.github.io',
 	  // 导航栏支持，默认加载的是项目根目录下的_navbar.md文件
 	  loadNavbar: true,
 	  // 封面支持，默认加载的是项目根目录下的_coverpage.md文件
 	  coverpage: true,
-	  disqus: 'shortname'
+	  disqus: 'shortname',
+	  tabs: {
+       persist    : true,      // default
+       sync       : true,      // default
+       theme      : 'classic', // default
+       tabComments: true,      // default
+       tabHeadings: true       // default
+     }
     }
   </script>
   
@@ -77,7 +85,14 @@
       distractionFreeMode: false  // Facebook-like distraction free mode
     })
   </script>
-  
+  <!-- docsify-tabs插件 (latest v1.x.x) -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
+  <!-- PDFObject.js is a required dependency of this plugin -->
+  <script src="//cdnjs.cloudflare.com/ajax/libs/pdfobject/2.1.1/pdfobject.min.js"></script> 
+  <!-- This is the source code of the pdf embed plugin -->
+  <script src="path-to-file/docsify-pdf-embed.js"></script>
+  <!-- or use this if you are not hosting the file yourself -->
+  <script src="//unpkg.com/docsify-pdf-embed-plugin/src/docsify-pdf-embed.js"></script>	
   
 </body>
 </html>

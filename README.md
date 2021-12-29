@@ -68,7 +68,7 @@
 - [dubbo](https://mp.weixin.qq.com/s/2qSA6aJn6KRXrATVE44k0w)	
 
 ---
-	
+
 ## 🐧 linux
 - [linux学习笔记]()
 
@@ -84,12 +84,12 @@
 - [个人笔记](https://www.yuque.com/tyc-cc/hgythh/lys8gy)
 
 ---
-	
+
 ## 💻 网络编程
 - [netty笔记](https://www.yuque.com/tyc-cc/hgythh/kc9oye)
 
 ---
-	
+
 ## ⏳ 数据结构与算法
 -[算法小抄](https://labuladong.gitee.io/algo/)
 
@@ -110,6 +110,27 @@
 
 ---
 
+## 🎁 脑图整理
+!> 以下脑图为本人整理，部分还有待补充，仅适用于个人。参考：书籍、视频、博客。
+   
+   <!-- tabs:start -->
+
+   #### **并发编程**
+
+   <img src="./_coverpage.assets/📖 java并发编程的艺术.jpg" />
+
+   #### **java虚拟机**
+   
+   <img src="./_coverpage.assets/📖 深入理解java虚拟机.jpg" />
+
+   #### **Spring**
+
+   <img src="./_coverpage.assets/Spring.jpg" />
+
+   <!-- tabs:end -->
+
+---
+
 # 🎅 联系作者
 ---
 
@@ -117,5 +138,7 @@
         <img src="./_coverpage.assets/me_wx.png" width="200" height="200"/>
 </p>
 
--
+
+
+<h2 align="center" style="color:green;">持续更新中 。。。</h2>
 
