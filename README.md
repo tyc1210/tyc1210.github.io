@@ -26,17 +26,22 @@
 
 ## ☕️ Java
 - **【一】Java基础**
-	- [Java基础脑图]()
 	- [Java基础视频教程]()
-	- [Java基础文档教程]()
+	- [值传递 or 引用传递？](https://www.zhihu.com/question/31203609)
 	- [解锁多种获取对象的技巧](https://mp.weixin.qq.com/s/aZg9SZT3DWkCkEsjlUjTtQ)
 	- [List](https://mp.weixin.qq.com/s/9bw2-pkuYSKEnstb4KGsqQ)
 	- [HashMap](https://mp.weixin.qq.com/s/xv0GmAU8fVlS_sxWKWUWYw)
-	- [ConcurrentHashMap](https://mp.weixin.qq.com/s/cnpfLL4TeL2oyEcHia6Bmg)
 	- [代码规范](https://www.yuque.com/tyc-cc/tp08p3/rfmb0k)
 	
 - **【二】多线程**
+	- [中断](/Java/中断.md)
+	- [ThreadLocal](/Java/ThreadLocal.md)
+	- [线程等待与唤醒](/Java/线程等待与唤醒.md)
+	- [守护线程](/Java/守护线程.md)
+	- [HashMap线程不安全](https://baijiahao.baidu.com/s?id=1675991555833901875&wfr=spider&for=pc)
+	- [ConcurrentHashMap](https://mp.weixin.qq.com/s/cnpfLL4TeL2oyEcHia6Bmg)
 - **【三】JVM**
+	-[Arthas](https://arthas.aliyun.com/doc/ )
 - **【三】资源**
 
 ---
@@ -63,7 +68,7 @@
 - **Kafka**
 	- [kafka](https://www.yuque.com/tyc-cc/hgythh/kuvd5c)
 - **RabbitMq**
-	* []()	
+	* [笔记](/RabbitMQ/rabbitmq.md)	
 - **Dubbo**
 - [dubbo](https://mp.weixin.qq.com/s/2qSA6aJn6KRXrATVE44k0w)	
 
@@ -102,6 +107,7 @@
 ---
 ## ✏️ 前端
 - [vue笔记](/Vue/Vue.md)
+- [uni-app](https://uniapp.dcloud.io/)
 
 ---
 ## 🐍 Python
@@ -112,19 +118,19 @@
 
 ## 🎁 脑图整理
 !> 以下脑图为本人整理，部分还有待补充，仅适用于个人。参考：书籍、视频、博客。
-   
+
    <!-- tabs:start -->
 
    #### **并发编程**
-   
+
    🙄图片加载太慢 ➡️➡️➡️[点我查看源文件](https://www.yuque.com/docs/share/e35fc0eb-c196-45af-96f9-6feff6462bf8?#%20%E3%80%8A%F0%9F%93%96%20java%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B%E7%9A%84%E8%89%BA%E6%9C%AF%E3%80%8B)	
-   
+
    <img src="./_coverpage.assets/📖 java并发编程的艺术.jpg" />
 
    #### **java虚拟机**
-   
+
    🙄图片加载太慢 ➡️➡️➡️[点我查看源文件](https://www.yuque.com/docs/share/e83eb506-bcd4-4f62-b522-7598972116e6?)
-   
+
    <img src="./_coverpage.assets/📖 深入理解java虚拟机.jpg" />
 
    #### **Spring**
