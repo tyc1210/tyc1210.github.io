@@ -40,15 +40,15 @@
 	- [守护线程](/Java/守护线程.md)
 	- [HashMap线程不安全](https://baijiahao.baidu.com/s?id=1675991555833901875&wfr=spider&for=pc)
 	- [ConcurrentHashMap](https://mp.weixin.qq.com/s/cnpfLL4TeL2oyEcHia6Bmg)
+	- [AQS](https://www.cnblogs.com/waterystone/p/4920797.html)
 - **【三】JVM**
-	-[Arthas](https://arthas.aliyun.com/doc/ )
-- **【三】资源**
+	-[Alibaba开源的Java诊断工具-Arthas](https://arthas.aliyun.com/doc/ )
 
 ---
 
 ## 🍿 Spring全家桶
 - [springboot整合大全](https://zhuanlan.zhihu.com/p/145063307)
-- [springclould基础](https://mp.weixin.qq.com/s/g0br3PfTmm8C_nkKbzE_ig)
+- [spring系列框架](https://www.r2coding.com/#/?id=spring%e7%b3%bb%e5%88%97%e6%a1%86%e6%9e%b6)
 
 ---
 
@@ -64,7 +64,7 @@
 
 ## 🔗 中间件
 - **Reids**
-	* [Java基础脑图]()
+	* [一致性Hash算法](https://blog.csdn.net/bntX2jSQfEHy7/article/details/79549368)
 - **Kafka**
 	- [kafka](https://www.yuque.com/tyc-cc/hgythh/kuvd5c)
 - **RabbitMq**
@@ -75,7 +75,7 @@
 ---
 
 ## 🐧 linux
-- [linux学习笔记]()
+- [linux学习笔记](https://www.yuque.com/docs/share/0bd2f6f8-61f9-4f1b-b08e-1b344d78c0c3)
 
 ---
 
@@ -91,6 +91,7 @@
 ---
 
 ## 💻 网络编程
+- [计算机网络基础整理](https://www.yuque.com/docs/share/ed37deee-02db-4512-8a12-ec76c6b10d2b)
 - [netty笔记](https://www.yuque.com/tyc-cc/hgythh/kc9oye)
 
 ---
@@ -107,11 +108,14 @@
 ---
 ## ✏️ 前端
 - [vue笔记](/Vue/Vue.md)
+- [跨域处理](https://blog.csdn.net/wh_xmy/article/details/87705840)
+- [基于VUE2.0的IM 聊天组件](https://gitee.com/june000/lemon-im)
 - [uni-app](https://uniapp.dcloud.io/)
 
 ---
 ## 🐍 Python
 - [python笔记](/Python/basic.md)
+- [爬虫基础](https://gitee.com/tyc12345/pc)
 
 
 ---
