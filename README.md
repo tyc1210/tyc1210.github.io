@@ -148,11 +148,13 @@
 ---
 
 # 🎅 联系作者
----
+<p><a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=1573496757&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:1573496757:51" alt="点击这里给我发消息" title="点击这里给我发消息"/></a><p>
 
+微信
 <p align="left">
-        <img src="./_coverpage.assets/me_wx.png" width="200" height="200"/>
+		<img src="./_coverpage.assets/me_wx.png" width="200" 
 </p>
+
 
 
 
