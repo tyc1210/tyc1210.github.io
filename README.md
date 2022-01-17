@@ -26,7 +26,6 @@
 
 ## ☕️ Java
 - **【一】Java基础**
-	- [Java基础视频教程]()
 	- [值传递 or 引用传递？](https://www.zhihu.com/question/31203609)
 	- [解锁多种获取对象的技巧](https://mp.weixin.qq.com/s/aZg9SZT3DWkCkEsjlUjTtQ)
 	- [List](https://mp.weixin.qq.com/s/9bw2-pkuYSKEnstb4KGsqQ)
@@ -55,10 +54,14 @@
 ## 📜 数据库
 - [批量插入](https://mp.weixin.qq.com/s/bghdFtuv6TT2s-mqDECnqQ)
 - [mysql数据恢复](/Mysql/mysql数据恢复.md)
+- [mysql如何实现ACID](https://os.51cto.com/art/202109/683670.html)
+- [binlog,redolog与undolog](https://blog.csdn.net/u010002184/article/details/88526708)
 - [mysql之mvcc](https://mp.weixin.qq.com/s/bghdFtuv6TT2s-mqDECnqQ)
 - [mysql为什么使用b+树?](https://mp.weixin.qq.com/s/AoPq8poENF9T4mVS1fDFPw)
 - [b+树高度计算](https://www.cnblogs.com/tangchuanyang/p/6634581.html)
 - [树高度与磁盘IO](https://www.zhihu.com/question/478168929/answer/2050270622)
+- [索引下推](https://www.cnblogs.com/Chenjiabing/p/12600926.html)
+- [mysql常见问题](https://mp.weixin.qq.com/s/MaVYENapeJcLNpYcR7tqBQ)
 
 ---
 
