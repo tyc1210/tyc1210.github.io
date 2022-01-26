@@ -2,7 +2,7 @@
 
 > <b>说明</b>：本站构建工具[docsify](https://docsify.js.org/#/)。 本站源码:[GitHub](https://github.com/tyc1210/tyc1210.github.io)、[Gitee](https://gitee.com/tyc12345/docs)
 
-* ⏳  `所谓活着的人，就是不断挑战的人，不断攀登命运险峰的人。`
+* ⏳ `We'll find a way; we always have.`
 * ✨ 19年毕业，普通本科。自学的java编程。本网站用来记录和分享个人的学习笔记、资料、一些常用工具等，希望可以帮到正在努力的你！`peace & love`
 
 ---
@@ -71,12 +71,18 @@
 - **Kafka**
 	- [kafka入门指南](https://mp.weixin.qq.com/s/bUNAD2fkGTD73jVLw8rDHg)
 	- [从面试的角度学习kafka](https://mp.weixin.qq.com/s/o-rqnOH4FHeHaz0VqoHnFg)
-	- [消息丢失](/Kafka/Kafka.md)
+	- [消息丢失](/Kafka/消息丢失.md)
+- Zookeeper
+	- [十二连问](https://mp.weixin.qq.com/s/ir0uurwo95hB3g__vTceJQ)
 - **RabbitMq**
 	* [常见问题](/RabbitMQ/rabbitmq.md)	
 - **Dubbo**
-- [dubbo](https://mp.weixin.qq.com/s/2qSA6aJn6KRXrATVE44k0w)	
-
+	- [Dubbo知识点总结](https://mp.weixin.qq.com/s/2qSA6aJn6KRXrATVE44k0w)	
+- **Nginx**
+	- [nginx配置详解](https://mp.weixin.qq.com/s/099PJZE89JVNnaF0kwePDQ)
+	- [Nginx工作原理（Master+Worker）](https://www.cnblogs.com/yblackd/p/12194143.html)	
+	- [Nginx为什么这么快](https://mp.weixin.qq.com/s/VR1jEhJVXCfja3Pmo_kKkw)
+	
 ---
 
 ## 🐧 linux
