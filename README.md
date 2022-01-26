@@ -65,20 +65,23 @@
 
 ---
 
-## 🔗 中间件
+## 🔗 MQ/服务器
 - **Reids**
 	* [一致性Hash算法](https://blog.csdn.net/bntX2jSQfEHy7/article/details/79549368)
 - **Kafka**
-	- [kafka](https://www.yuque.com/tyc-cc/hgythh/kuvd5c)
+	- [kafka入门指南](https://mp.weixin.qq.com/s/bUNAD2fkGTD73jVLw8rDHg)
+	- [从面试的角度学习kafka](https://mp.weixin.qq.com/s/o-rqnOH4FHeHaz0VqoHnFg)
+	- [消息丢失](/Kafka/Kafka.md)
 - **RabbitMq**
-	* [笔记](/RabbitMQ/rabbitmq.md)	
+	* [常见问题](/RabbitMQ/rabbitmq.md)	
 - **Dubbo**
 - [dubbo](https://mp.weixin.qq.com/s/2qSA6aJn6KRXrATVE44k0w)	
 
 ---
 
 ## 🐧 linux
-- [linux学习笔记](https://www.yuque.com/docs/share/0bd2f6f8-61f9-4f1b-b08e-1b344d78c0c3)
+- [文档教程](http://billie66.github.io/TLCL/book/)
+- [杂记]()
 
 ---
 
@@ -95,7 +98,7 @@
 
 ## 💻 网络编程
 - [计算机网络基础整理](https://www.yuque.com/docs/share/ed37deee-02db-4512-8a12-ec76c6b10d2b)
-- [netty笔记](https://www.yuque.com/tyc-cc/hgythh/kc9oye)
+- [netty笔记](https://www.yuque.com/docs/share/061d6311-a729-4eb0-8a66-03954d9f40ac)
 
 ---
 
@@ -104,9 +107,8 @@
 
 ---
 ## 🔧 版本控制
-- [git](https://www.yuque.com/tyc-cc/hgythh/qg2hm7)
+- [git基础](https://www.yuque.com/docs/share/0f11808d-9097-4e86-b016-5cfa207aaa6e)
 - [多账号管理](https://blog.csdn.net/thewindkee/article/details/88552357?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_title~default-1.no_search_link&spm=1001.2101.3001.4242.2)
-- [github访问慢](https://blog.csdn.net/wjhsmart/article/details/105770492)
 
 ---
 ## ✏️ 前端
