@@ -19,9 +19,6 @@
 # ☕ 学习导航
 ---
 
-## 🚀 计算机基础
-- [计算机网络](https://www.yuque.com/tyc-cc/hgythh/nae0ot)
-
 ---
 
 ## ☕️ Java
@@ -42,7 +39,8 @@
 	- [AQS](https://www.cnblogs.com/waterystone/p/4920797.html)
 - **【三】JVM**
 	-[Alibaba开源的Java诊断工具-Arthas](https://arthas.aliyun.com/doc/ )
-
+	-[jstack(查看线程)、jmap(查看内存)和jstat(性能分析)](https://blog.csdn.net/zbajie001/article/details/80045710)
+	-[线上排查CPU飙升与死锁](https://www.yuque.com/docs/share/d8a0d0e3-4840-4c73-901a-c22b363040ea)
 ---
 
 ## 🍿 Spring全家桶
@@ -54,6 +52,8 @@
 ## 📜 数据库
 - [批量插入](https://mp.weixin.qq.com/s/bghdFtuv6TT2s-mqDECnqQ)
 - [mysql数据恢复](/Mysql/mysql数据恢复.md)
+- [搞懂mysql执行一条sql流程](/Mysql/搞懂mysql执行一条sql流程.md)
+- [索引和优化](/Mysql/索引和优化.md)
 - [mysql如何实现ACID](https://os.51cto.com/art/202109/683670.html)
 - [binlog,redolog与undolog](https://blog.csdn.net/u010002184/article/details/88526708)
 - [mysql之mvcc](https://mp.weixin.qq.com/s/bghdFtuv6TT2s-mqDECnqQ)
@@ -67,15 +67,22 @@
 
 ## 🔗 MQ/服务器
 - **Reids**
-	* [一致性Hash算法](https://blog.csdn.net/bntX2jSQfEHy7/article/details/79549368)
+	- [一致性Hash算法](https://blog.csdn.net/bntX2jSQfEHy7/article/details/79549368)
 - **Kafka**
 	- [kafka入门指南](https://mp.weixin.qq.com/s/bUNAD2fkGTD73jVLw8rDHg)
 	- [从面试的角度学习kafka](https://mp.weixin.qq.com/s/o-rqnOH4FHeHaz0VqoHnFg)
+	- [kafka精妙设计上](https://mp.weixin.qq.com/s/kImrkVLE4dtpVnb-Yp479Q)
+	- [kafka精妙设计下](https://mp.weixin.qq.com/s/YJFltTP4J5si1Z5SbuMUJw)
 	- [消息丢失](/Kafka/消息丢失.md)
-- Zookeeper
+- **Zookeeper**
+	- [Zookeeper基础](https://www.yuque.com/docs/share/96675aec-ea8f-489e-bea6-8b702bc750dd)
+	- [Zookeeper选举机制](https://www.yuque.com/docs/share/034ad3d3-ef40-488e-be35-56274c2e4a2c)
+	- [Zookeeper之一致性协议ZAB](https://www.yuque.com/docs/share/c9167809-3d22-40e8-94bf-53de81586cfb)
+	- [Zookeeper之watch机制](https://www.yuque.com/docs/share/11532eb9-1720-4a45-9910-d7e75338a037)
+	- [Zookeeper实现分布式锁](https://www.yuque.com/docs/share/f8196d62-1eda-4f5b-92c9-620696f3b5db)
 	- [十二连问](https://mp.weixin.qq.com/s/ir0uurwo95hB3g__vTceJQ)
 - **RabbitMq**
-	* [常见问题](/RabbitMQ/rabbitmq.md)	
+	- [常见问题](/RabbitMQ/rabbitmq.md)	
 - **Dubbo**
 	- [Dubbo知识点总结](https://mp.weixin.qq.com/s/2qSA6aJn6KRXrATVE44k0w)	
 - **Nginx**
@@ -85,14 +92,15 @@
 	
 ---
 
-## 🐧 linux
-- [文档教程](http://billie66.github.io/TLCL/book/)
-- [杂记]()
+## 🚀 计算机基础
+- [linux文档教程](http://billie66.github.io/TLCL/book/)
+- [零拷贝？mmap?](https://mp.weixin.qq.com/s/MLQzOv2lFV_NL1tm5rAZ-w)
 
 ---
 
-## ☁️ 云原生
+## ☁️ 运维相关
 - [docker基础](/Docker/basic.md)
+- [docker网络与跨主机通信](https://www.cnblogs.com/yy-cxd/p/6553624.html)
 - [云原生](https://www.yuque.com/leifengyang/oncloud/ctiwgo)
 
 ---
@@ -105,7 +113,7 @@
 ## 💻 网络编程
 - [计算机网络基础整理](https://www.yuque.com/docs/share/ed37deee-02db-4512-8a12-ec76c6b10d2b)
 - [netty笔记](https://www.yuque.com/docs/share/061d6311-a729-4eb0-8a66-03954d9f40ac)
-
+- [reactor线程模型](https://my.oschina.net/zhangxufeng/blog/3020581)
 ---
 
 ## ⏳ 数据结构与算法
@@ -121,7 +129,6 @@
 - [vue笔记](/Vue/Vue.md)
 - [跨域处理](https://blog.csdn.net/wh_xmy/article/details/87705840)
 - [基于VUE2.0的IM 聊天组件](https://gitee.com/june000/lemon-im)
-- [uni-app](https://uniapp.dcloud.io/)
 
 ---
 ## 🐍 Python
