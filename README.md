@@ -20,7 +20,7 @@
 ---
 
 ## 🚀 计算机基础
-- [计算机网络](https://www.yuque.com/tyc-cc/hgythh/nae0ot)
+- [计算机网络](https://www.yuque.com/docs/share/ed37deee-02db-4512-8a12-ec76c6b10d2b)
 
 ---
 
@@ -41,7 +41,9 @@
 	- [ConcurrentHashMap](https://mp.weixin.qq.com/s/cnpfLL4TeL2oyEcHia6Bmg)
 	- [AQS](https://www.cnblogs.com/waterystone/p/4920797.html)
 - **【三】JVM**
-	-[Alibaba开源的Java诊断工具-Arthas](https://arthas.aliyun.com/doc/ )
+	- [Alibaba开源的Java诊断工具-Arthas](https://arthas.aliyun.com/doc/)
+	- [线上CPU飙升与死锁排查](https://www.yuque.com/docs/share/d8a0d0e3-4840-4c73-901a-c22b363040ea)
+	- [《深入理解java虚拟机》总结(密码:cw0n)](https://www.yuque.com/docs/share/1e59af64-05e6-45cc-a7b7-beb4d3e0b2da)
 
 ---
 
@@ -87,7 +89,7 @@
 
 ## 🐧 linux
 - [文档教程](http://billie66.github.io/TLCL/book/)
-- [杂记]()
+
 
 ---
 
@@ -121,7 +123,6 @@
 - [vue笔记](/Vue/Vue.md)
 - [跨域处理](https://blog.csdn.net/wh_xmy/article/details/87705840)
 - [基于VUE2.0的IM 聊天组件](https://gitee.com/june000/lemon-im)
-- [uni-app](https://uniapp.dcloud.io/)
 
 ---
 ## 🐍 Python
