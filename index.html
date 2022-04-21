@@ -35,7 +35,14 @@
        theme      : 'classic', // default
        tabComments: true,      // default
        tabHeadings: true       // default
-     }
+     },
+	 beian: {
+        ICP: "豫ICP备2022009734号", // 工信部ICP备案号
+        NISMSP: {
+            number: "", // 公安部备案备案号（没有留空）
+            url: "https://beian.miit.gov.cn/#/Integrated/index", // 公安部备案链接（没有留空）
+         },
+	   },
     }
   </script>
   
@@ -86,6 +93,8 @@
   </script>
   <!-- docsify-tabs插件 (latest v1.x.x) -->
   <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
+  <!-- 备案插件 -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify-beian@latest/dist/beian.min.js"></script>
   
 </body>
 </html>
